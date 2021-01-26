@@ -1,17 +1,26 @@
-<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulghangas&show_icons=true&count_private=true&theme=chartreuse-dark&hide=contribs,prs&hide_border=true" height="140"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulghangas&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
+<a href="https://twitter.com/Rahul__Ghangas">
+  <img align="left" alt="Rahul Ghangas | Twitter" width="21px" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/twitter.png"/>
+</a>
+
+<br />
+<br />
+
+- 🌱 I’m currently learning Rust and Go
+- 📫 How to reach me: <a href="https://twitter.com/Rahul__Ghangas">@Rahul__Ghangas</a> 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rahulghangas&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulghangas&layout=compact)
+
 
 <!--
-**rahulghangas/rahulghangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/vim.png"></code>
 -->
