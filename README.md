@@ -1,16 +1,23 @@
-<a href="https://twitter.com/Rahul__Ghangas">
-  <img align="left" alt="Rahul Ghangas | Twitter" width="21px" src="https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/assets/twitter.png"/>
-</a>
+## Namaste 🙏
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulghangas)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ghangas-675917136)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/Rahul__Ghangas)
+ <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=rahulghangas" />
 
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust and Go
+- 🔎 Working on some cool zk tech
+- 🤝 Making NFTs more accessible
 - 📫 How to reach me: <a href="https://twitter.com/Rahul__Ghangas">@Rahul__Ghangas</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rahulghangas&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulghangas&layout=compact)
+![Rahul github stats](https://github-readme-stats.vercel.app/api?username=borsemayur2&theme=radical&show_icons=true&count_private=true)
+
+![Rahul Repos Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulghangas&theme=solarized_dark)
+![Rahul Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulghangas&theme=solarized_dark)
+![Rahul Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulghangas&theme=solarized_dark)
 
 
 <!--
