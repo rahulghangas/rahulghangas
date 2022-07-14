@@ -4,13 +4,17 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulghangas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ghangas-675917136)
 
+
 </br>
+
 
 - 🔎 Working on some cool zk tech
 - 🤝 Making NFTs more accessible
 - 📫 Reach me at: <a href="https://twitter.com/Rahul__Ghangas">@Rahul__Ghangas</a> 
 
+
 </br>
+
 
 ![Rahul github stats](https://github-readme-stats.vercel.app/api?username=rahulghangas&theme=radical&show_icons=true&count_private=true)
 
