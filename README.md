@@ -7,7 +7,6 @@
 </br>
 
 - 🔎 Working on some cool zk tech
-- 🤝 Making NFTs more accessible
 - 📫 Reach me at: <a href="https://twitter.com/Rahul__Ghangas">@Rahul__Ghangas</a> 
 
 
