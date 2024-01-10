@@ -12,8 +12,10 @@
 
 </br>
 
-![Rahul github stats](https://github-readme-stats.vercel.app/api?username=rahulghangas&theme=radical&show_icons=true&count_private=true)
 ![Rahul Metrics](https://raw.githubusercontent.com/rahulghangas/rahulghangas/master/github-metrics.svg)
+
+![Rahul github stats](https://github-readme-stats.vercel.app/api?username=rahulghangas&theme=radical&show_icons=true&count_private=true)
+
 
 ![Rahul Repos Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulghangas&theme=solarized_dark)
 ![Rahul Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulghangas&theme=solarized_dark)
